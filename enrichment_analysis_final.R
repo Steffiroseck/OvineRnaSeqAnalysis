@@ -1,11 +1,4 @@
 ##GSEA
-
-# 1- obtaining stats for ranking genes in your experiment,
-# 2- creating a named vector out of the DESeq2 result
-# 3- Obtaining a gene set from mysigbd
-# 4- doing analysis
-
-
 gffpath="/mnt/sda1/RNA/40-815970407/Sheep/Reference_geneome/ARS-UI_Ramb_v3.0"
 gfffile="/mnt/sda1/RNA/40-815970407/Sheep/Reference_geneome/ARS-UI_Ramb_v3.0/genomic.gff"
 
